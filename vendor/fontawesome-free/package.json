@@ -55,4 +55,5 @@
   "scripts": {
     "postinstall": "node attribution.js"
   }
-}
+ HEAD
+ a042cb29cdfa95199ddd38f765ce834ce30b3bbb
